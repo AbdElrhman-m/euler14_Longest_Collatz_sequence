@@ -1,1 +1,2 @@
-# euler14_Longest_Collatz_sequence
+# project euler problem 14 Longest Collatz sequence
+# superBido solution ;)
